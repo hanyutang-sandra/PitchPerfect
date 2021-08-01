@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PitchPerfect
 //
-//  Created by 王梅 on 7/25/21.
+//  Created by Hanyu on 7/25/21.
 //
 
 import UIKit
